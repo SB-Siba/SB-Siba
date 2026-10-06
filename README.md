@@ -89,7 +89,7 @@ A secure web app built with Google Apps Script that allows admins to view, searc
 
 A modern healthcare platform offering online appointment booking, virtual consultations, specialist profiles, service packages, patient reviews, health articles, and emergency services. Built with React for seamless patient-doctor connections and comprehensive medical care access.
 
-**Tech Stack:** `JavaScript` · `Node.js`
+**Tech Stack:** `JavaScript`
 
 ⭐ 0 · 🍴 0
 
@@ -129,7 +129,7 @@ Completely java methods
 
 A software project built with modern development technologies.
 
-**Tech Stack:** `HTML` · `CSS`
+**Tech Stack:** `HTML`
 
 ⭐ 0 · 🍴 0
 
